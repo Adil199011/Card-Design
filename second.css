@@ -1,0 +1,158 @@
+body{
+    background-color: red;
+    color: white;
+}
+.h{
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    text-shadow: 5px 5px 6px  white;
+    
+    
+  
+}
+
+.b{
+    display: flex;
+    color: white;
+    margin: 5px;
+   
+}
+.fa-toggle-on{
+    color: white;
+}
+
+.b h1{
+    margin: 5px;
+}
+
+.box{
+    width: 380px;
+    height: 550px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 12px 8px 9px white;
+    opacity: 3.5;
+    margin: auto;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+}
+.icon a{
+    color: white;
+    text-decoration: none;
+}
+
+.image{
+    text-align: center;
+    
+    
+}
+
+img{
+    border-radius:50%;
+    box-shadow: 5px 4px 4px black;
+}
+
+.text{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+    border: 1px solid black;
+    margin-left: 140px;
+    margin-right: 140px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(24, 24, 238);
+   
+    
+
+}
+
+.button a{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+   
+}
+.instagram{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(218, 67, 157);
+    border-radius: 50px;
+    box-shadow: 3px 3px 6px rgb(218, 67, 157);
+    
+}
+.fa-instagram{
+    margin: 12px;
+    font-size: 30px;
+    color: black;
+    font-weight: 500;
+    text-align: center;
+    
+}
+.fa-instagram a{
+    text-decoration: none;
+}
+
+.facebook{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(106, 0, 255);
+    border-radius: 50px;
+    box-shadow: 3px 3px 6px rgb(106, 0, 255);
+}
+
+.fa-facebook{
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    
+}
+
+.fa-facebook a{
+    text-decoration: none;
+}
+
+.youtube{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 8);
+    border-radius: 50px;
+    box-shadow: 3px 3px 6px red;
+}
+
+.fa-youtube{
+    margin: 8.5px;
+    font-size: 30px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 11px;
+}
+.fa-youtube a{
+    text-decoration: none;
+}
+
+
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+    
+}
+.count{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+   
+    text-align: center;
+}
